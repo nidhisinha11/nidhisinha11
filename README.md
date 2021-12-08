@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nidhi! 
-- 👀 I’m interested in using computer science to help the community around me through ethical and accessible programs. 
+- 👀 I’m interested in AI alignment and general ethics in technology. 
 - 🌱 I’m currently learning natural language processing, machine learning, philosophy, and mathematics. 
 - 💞️ I’m looking to collaborate on projects that support and uplift queer/POC/female voices. 
 - 📫 Connect with me on [LinkedIn](http://linkedin.com/in/nidhi-sinha-022320a8) or email me at ns4143@nyu.edu!  
